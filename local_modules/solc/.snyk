@@ -1,0 +1,14 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.21.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:extend:20180424':
+    - semistandard > semistandard-format > standard-format > esformatter-jsx > extend:
+        patched: '2021-09-02T19:17:31.311Z'
+  'npm:lodash:20180130':
+    - semistandard > semistandard-format > semi > eslint > inquirer > lodash:
+        patched: '2021-09-02T19:17:31.311Z'
+  'npm:minimatch:20160620':
+    - semistandard > semistandard-format > semi > eslint > minimatch:
+        patched: '2021-09-02T19:17:31.311Z'
