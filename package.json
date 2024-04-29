@@ -15,7 +15,7 @@
     "bignumber.js": "^5.0.0",
     "body-parser": "^1.12.2",
     "concurrently": "^3.5.1",
-    "ejs": "~2.5.7",
+    "ejs": "~3.1.10",
     "express": "^4.16.0",
     "mongoose": "^4.10.8",
     "morgan": "^1.9.0",
