@@ -22,9 +22,9 @@
     "node-fetch": "^2.3.0",
     "rlp": "^2.0.0",
     "serve-favicon": "~2.4.5",
-    "socket.io": "^2.0.4",
+    "socket.io": "^3.0.0",
     "solc": "^0.4.19",
-    "web3": "1.0.0-beta.36"
+    "web3": "4.0.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
