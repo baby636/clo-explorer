@@ -17,7 +17,7 @@
     "concurrently": "^3.5.1",
     "ejs": "~2.5.7",
     "express": "^4.16.0",
-    "mongoose": "^4.10.8",
+    "mongoose": "^6.13.5",
     "morgan": "^1.9.0",
     "node-fetch": "^2.3.0",
     "rlp": "^2.0.0",
@@ -30,7 +30,7 @@
     "chai": "^4.1.2",
     "copyfiles": "^1.2.0",
     "ethereumjs-testrpc": "^6.0.3",
-    "mocha": "^4.1.0",
+    "mocha": "^11.0.1",
     "request": "^2.83.0"
   }
 }
